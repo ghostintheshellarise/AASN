@@ -8,7 +8,9 @@ Each of the 260 simulations begin with a randomly generated initial condition, i
 The results for 260 separate simulations are included in the dataset. Each simulation consists of a matrix of 0's and 1's, with 21 rows and 43 columns. The first row is the randomly generated initial condition for the particular simulation, with the next 20 rows being the output from the boolean pseudodynamics simulation. Each of the 43 columns represent the transient response of a particular node. The nodal names are identified at the top of the data file. A line of asterisks is used to separate the simulations from one another.
 
 My work here is using different methods to
+
 a. compute and assign a similarity/importance score to determine which pair of nodes should be join together and
+
 b. with correct direction of influence extracted.
   
 Assumptions are made in each approach and you can find it in respective jupyter notebook.
