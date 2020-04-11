@@ -1,4 +1,4 @@
-# AASN
+# Abscisic Acid Signaling Network
 <strong>Network interaction recovery using toy data from UCI Machine Learning Repository</strong> (http://archive.ics.uci.edu/ml/datasets/Abscisic+Acid+Signaling+Network)
 
 <b>Abstract:</b> The objective is to determine the set of boolean rules that describe the interactions of the nodes within this plant signaling network. The dataset includes 300 (errata: only 260 distinct similations available in dataset) separate boolean pseudodynamic simulations using an asynchronous update scheme.
