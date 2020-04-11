@@ -1,7 +1,7 @@
 # AASN
 Network interaction recovery using toy data from UCI Machine Learning Repository (http://archive.ics.uci.edu/ml/datasets/Abscisic+Acid+Signaling+Network)
 
-Abstract: The objective is to determine the set of boolean rules that describe the interactions of the nodes within this plant signaling network. The dataset includes 300 (errata: only 260 distinct similations available in dataset) separate boolean pseudodynamic simulations using an asynchronous update scheme.
+<b>Abstract:</b> The objective is to determine the set of boolean rules that describe the interactions of the nodes within this plant signaling network. The dataset includes 300 (errata: only 260 distinct similations available in dataset) separate boolean pseudodynamic simulations using an asynchronous update scheme.
 
 Each of the 260 simulations begin with a randomly generated initial condition, in order to ensure sampling of all of the steady states of the system. There are a total of 43 nodes in this dataset, with 5 ndoes being constants (errata: if you are looking at each simulation, the number of fixed nodes varied).
 
