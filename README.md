@@ -9,7 +9,8 @@ The results for 260 separate simulations are included in the dataset. Each simul
 
 My work here is using different methods to
 
-a. compute and assign a similarity/importance score to determine which pair of nodes should be joined together and
+a. compute and assign a similarity/importance score to determine which pair of nodes should be joined together; and
+
 b. with correct direction of influence extracted.
   
 Assumptions are made in each approach and you can find it in respective jupyter notebook.
